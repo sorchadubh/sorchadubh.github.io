@@ -1,0 +1,203 @@
+{
+	"@context": "https://iiif.io/api/presentation/2/context.json",
+	"@id": "http://localhost:5500/3_canvas_manifest.json",
+	"@type": "sc:Manifest",
+	"attribution": "The Internet Archive",
+	"description": "<h3><a href=\"https://web.marshlibrary.ie/catalogue/Record/37777\" rel=\"nofollow\">Letter from J. de Tandebaratz, Guybert, de \nLaizement, Journeau, Seignette, and Blanc, Conciergerie du Palais, \nParis, to Élie Bouhéreau, La Rochelle, 1st January 1685.  </a></h3>",
+	"label": "Z2.2.14.12.6",
+	"logo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+	"metadata": [
+		{
+			"label": "title",
+			"value": "Z2.2.14.12.6"
+		},
+		{
+			"label": "subject",
+			"value": "Huguenots. prison. persecution. Reformed ministers. Conciergerie"
+		},
+		{
+			"label": "date",
+			"value": "1685-01-01"
+		},
+		{
+			"label": "creator",
+			"value": "Marsh's Library"
+		}
+	],
+	"seeAlso": "https://archive.org/metadata/z.2.2.14.12.6",
+	"sequences": [
+		{
+			"@context": "https://iiif.io/api/image/2/context.json",
+			"@id": "https://iiif.archivelab.org/iiif/z.2.2.14.12.6/canvas/default",
+			"@type": "sc:Sequence",
+			"canvases": [
+				{
+					"@context": "https://iiif.io/api/presentation/2/context.json",
+					"@id": "https://iiif.archivelab.org/iiif/z.2.2.14.12.6/canvas",
+					"@type": "sc:Canvas",
+					"description": "<h3><a href=\"https://web.marshlibrary.ie/catalogue/Record/37777\" rel=\"nofollow\">Letter from J. de Tandebaratz, Guybert, de \nLaizement, Journeau, Seignette, and Blanc, Conciergerie du Palais, \nParis, to Élie Bouhéreau, La Rochelle, 1st January 1685.  </a></h3>",
+					"height": 2691,
+					"images": [
+						{
+							"@context": "https://iiif.io/api/image/2/context.json",
+							"@id": "https://iiif.archivelab.org/iiif/z.2.2.14.12.6/annotation",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.archivelab.org/iiif/z.2.2.14.12.6/annotation",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/z.2.2.14.12.6/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2691,
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/z.2.2.14.12.6",
+									"profile": "https://iiif.io/api/image/2/profiles/level2.json"
+								},
+								"width": 1852
+							}
+						}
+					],
+					"label": "Z2.2.14.12.6",
+					"width": 1852
+				},
+				{
+					"@id": "http://51f1514e-4daa-4461-bb5f-bdbfcc979acd",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2709,
+					"width": 3646,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d16ab0a2-512e-4908-a431-df7cc2acf7a9",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.prod.archive.org/image/iiif/2/z.2.2.14.12.6%2fZ2-2-14(12-6)_002.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.prod.archive.org/image/iiif/2/z.2.2.14.12.6%2fZ2-2-14(12-6)_002.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"tif",
+												"jpg",
+												"gif",
+												"png"
+											],
+											"maxArea": 9877014,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2709,
+								"width": 3646
+							},
+							"on": "http://51f1514e-4daa-4461-bb5f-bdbfcc979acd"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://bfc6922e-30d9-4eda-9acc-b3096c339d35",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2694,
+					"width": 1865,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4e634df1-6667-4f2b-90a0-07791706c432",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": " https://iiif.prod.archive.org/image/iiif/2/z.2.2.14.12.6%2fZ2-2-14(12-6)_003.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": " https://iiif.prod.archive.org/image/iiif/2/z.2.2.14.12.6%2fZ2-2-14(12-6)_003.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"tif",
+												"jpg",
+												"gif",
+												"png"
+											],
+											"maxArea": 5024310,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2694,
+								"width": 1865
+							},
+							"on": "http://bfc6922e-30d9-4eda-9acc-b3096c339d35"
+						}
+					],
+					"related": ""
+				}
+			],
+			"label": "default"
+		}
+	],
+	"viewingHint": "paged"
+}
