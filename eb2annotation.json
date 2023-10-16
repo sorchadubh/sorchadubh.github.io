@@ -21,7 +21,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -41,7 +41,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -61,7 +61,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -81,7 +81,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -101,7 +101,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -121,7 +121,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -141,7 +141,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -161,7 +161,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -181,7 +181,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -201,7 +201,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -221,7 +221,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -241,7 +241,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -261,7 +261,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -281,7 +281,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -301,7 +301,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -321,7 +321,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -341,7 +341,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -361,7 +361,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -381,7 +381,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -401,7 +401,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -421,7 +421,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -441,7 +441,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -461,7 +461,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -481,7 +481,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
@@ -501,7 +501,7 @@
                             ,
                             "within":
         					{
-        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@id": "https://sorchadubh.github.io/ebmanifest.json",
         						"@type": "sc:Manifest"
         					}
                         
