@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://127.0.0.1:5500/ebmanifest.json",
+	"@id": "https://sorchadubh.github.io/ebmanifest.json",
 	"@type": "sc:Manifest",
 	"label": "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. ",
 	"metadata": [],
