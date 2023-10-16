@@ -1,6 +1,6 @@
 {
 	"@context": "https://iiif.io/api/presentation/2/context.json",
-	"@id": "http://localhost:5500/3_canvas_manifest.json",
+	"@id": "https://sorchadubh.github.io/boutest.json",
 	"@type": "sc:Manifest",
 	"attribution": "The Internet Archive",
 	"description": "<h3><a href=\"https://web.marshlibrary.ie/catalogue/Record/37777\" rel=\"nofollow\">Letter from J. de Tandebaratz, Guybert, de \nLaizement, Journeau, Seignette, and Blanc, Conciergerie du Palais, \nParis, to Élie Bouhéreau, La Rochelle, 1st January 1685.  </a></h3>",
