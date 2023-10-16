@@ -1,0 +1,511 @@
+
+        {
+            "@context":"http://iiif.io/api/presentation/2/context.json",
+            "@id":"http://localhost:8888/examples/anno_list.json",
+            "@type":"sc:AnnotationList",
+            "resources":[
+                
+                    
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Pour envoyer à Cayenne."
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=578,66,1266,156"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Traite de la Dévotion, par M[onsieu]r. Jurieu"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=106,132,1609,199"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"L . . 1 // 15 // 0"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=1960,141,454,181"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Préservatif [contre le changement de religion], par le même,"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=121,270,1168,185"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"L . . 2 // 00 // 0"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=1960,265,448,123"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Pratique des Vertus Chrétiennes;"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=115,371,1315,190"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"L . . 2 // 00 / 0"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=1951,363,463,132"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"La voix de Dieu;"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=112,495,714,158"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"L . . 1 // 00 // 0"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=1945,437,492,144"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Sermon de M[onsieu]r. Claude; avec une Préparation à la Céne;"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=2017,613,391,48"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"L . . 2 // 00 / 0"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=118,630,1880,79"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Priéres pour tous les jours de la semaine; Sermon"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=118,656,1827,150"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Sermon pour la Défense de la Réformation;"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=118,748,1764,156"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Derniers Discours de M[onsieu]r. Morus;"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=109,834,1324,136"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Trois Quatre Sermons de M[onsieu]r Sarrau*; et Priere pour le"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=129,886,1690,144"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Jeûne; et Avis pour se préparer à la Communion;"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=173,1001,1654,127"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Code Marin;"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=239,1068,423,77"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"L . . 2 // 05 / 0"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=1942,645,489,256"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Examen de Soy-même, par M[onsieu]r. Claude,"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=60,1053,1790,184"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"L . . 2 // 00 / 0"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=1997,1010,423,153"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"L . . 11 // 00 / 0"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=2043,1200,377,109"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"* Savoir, Transfiguration;"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=270,1191,993,182"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Foy fructifiante;"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=653,1312,656,153"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"Paradis terrestre;"
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=636,1416,670,115"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    },
+                    {
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":
+                        {
+                            "@type":"cnt:ContentAsText",
+                            "format":"text/plain",
+                            
+                    "chars":"J[ésus]. C[hrist]. . 2 // 05 / 0.C. Crucifié."
+                        },
+                        "on":"http://cef82a87-c594-4aba-baf6-7d1b8c17da2a#xywh=633,1479,501,147"
+                        
+                            ,
+                            "within":
+        					{
+        						"@id": "http://127.0.0.1:5500/ebmanifest.json",
+        						"@type": "sc:Manifest"
+        					}
+                        
+                    }
+            ]
+        }
+    

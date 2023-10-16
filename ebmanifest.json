@@ -1,0 +1,62 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://127.0.0.1:5500/ebmanifest.json",
+	"@type": "sc:Manifest",
+	"label": "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. ",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Marsh's Library",
+	"sequences": [
+		{
+			"@id": "http://d622ea2f-120d-469c-bef4-2ca79c3e19cb",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2032,
+					"width": 2526,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6111f967-1214-477f-94c9-7b5271c696cd",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/20230929_20230929_1719/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/20230929_20230929_1719",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 2032,
+								"width": 2526
+							},
+							"on": "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"logo": "https://marshlibrary.ie/wp-content/uploads/2022/10/MarshsLibraryLogo.svg"
+}
